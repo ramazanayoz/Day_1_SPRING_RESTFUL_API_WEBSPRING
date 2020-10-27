@@ -1,0 +1,11 @@
+https://start.spring.io/ adresine girip
+java, maven project, 2.3.3
+group:: net.codejava
+artifact:: HelloRest
+depecies:::spring web
+packing::jar  java 14
+generate button click
+workplace ana  dizinine kaydet
+
+eclipsede
+file --> import --> general --> projects from folder --> next --> directory --> HelloRest  --> finish
